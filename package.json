@@ -1,0 +1,17 @@
+{
+  "name": "freshsales-crud",
+  "version": "1.0.0",
+  "description": "Assignment task 1",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
